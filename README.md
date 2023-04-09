@@ -1,5 +1,5 @@
 <aside>
-<img src="/icons/computer-chip_gray.svg" alt="/icons/computer-chip_gray.svg" width="40px" /> Siber Güvenlik / Yazılım Notlarım
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjk2YzhiNjdjZmVkZjgzYWMwOTQ0YjgzZjI2NzU0MjUwN2NhNTc1YyZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" width="100px" /> Siber Güvenlik / Yazılım Notlarım
 
 </aside>
 
